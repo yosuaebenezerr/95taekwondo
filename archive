@@ -1,0 +1,107 @@
+<div class="img-container">
+      <!-- Gambar Thumbnail yang bisa diklik untuk membuka modal -->
+      <img
+        class="img-content1"
+        src="/FEED PLAN JANUARI (2).png"
+        alt="Kejuaraan Milenia"
+        onclick="openModal()"
+      />
+
+      <img
+        class="img-content1"
+        src="/FEED PLAN JANUARI (2).png"
+        alt="foto-contoh"
+        onclick="openModal()"
+      />
+    </div>
+
+    <!-- Modal untuk menampilkan gambar besar -->
+    <div id="myModal" class="modal">
+      <div class="modal-content">
+        <!-- Tombol untuk menutup modal -->
+        <span class="close" onclick="closeModal()">&times;</span>
+        <img
+          src="/FEED PLAN JANUARI (2).png"
+          alt="foto-contoh"
+          id="modalImage"
+        />
+        <br />
+        <a href="/FEED PLAN JANUARI (2).png" download="Foto-Unduh.jpg"
+          >Unduh Foto</a
+        >
+      </div>
+
+      <div class="modal-content">
+        <!-- Tombol untuk menutup modal -->
+        <span class="close" onclick="closeModal()">&times;</span>
+        <img
+          src="/FEED PLAN JANUARI (3).png"
+          alt="foto-contoh"
+          id="modalImage"
+        />
+        <br />
+        <a href="/FEED PLAN JANUARI (3).png" download="Foto-Unduh.jpg"
+          >Unduh Foto</a
+        >
+      </div>
+    </div>
+
+    <div id="myModal" class="modal">
+      <div class="modal-content">
+        <!-- Tombol untuk menutup modal -->
+        <span class="close" onclick="closeModal()">&times;</span>
+        <img
+          src="/FEED PLAN JANUARI (2).png"
+          alt="foto-contoh"
+          id="modalImage"
+        />
+        <br />
+        <a href="/FEED PLAN JANUARI (2).png" download="Foto-Unduh.jpg"
+          >Unduh Foto</a
+        >
+      </div>
+
+      <div class="modal-content">
+        <!-- Tombol untuk menutup modal -->
+        <span class="close" onclick="closeModal()">&times;</span>
+        <img
+          src="/FEED PLAN JANUARI (3).png"
+          alt="foto-contoh"
+          id="modalImage"
+        />
+        <br />
+        <a href="/FEED PLAN JANUARI (3).png" download="Foto-Unduh.jpg"
+          >Unduh Foto</a
+        >
+      </div>
+    </div>
+
+    <div id="myModal" class="modal">
+      <div class="modal-content">
+        <!-- Tombol untuk menutup modal -->
+        <span class="close" onclick="closeModal()">&times;</span>
+        <img
+          src="/FEED PLAN JANUARI (2).png"
+          alt="foto-contoh"
+          id="modalImage"
+        />
+        <br />
+        <a href="/FEED PLAN JANUARI (2).png" download="Foto-Unduh.jpg"
+          >Unduh Foto</a
+        >
+      </div>
+
+      <div class="modal-content">
+        <!-- Tombol untuk menutup modal -->
+        <span class="close" onclick="closeModal()">&times;</span>
+        <img
+          src="/FEED PLAN JANUARI (3).png"
+          alt="foto-contoh"
+          id="modalImage"
+        />
+        <br />
+        <a href="/FEED PLAN JANUARI (3).png" download="Foto-Unduh.jpg"
+          >Unduh Foto</a
+        >
+      </div>
+    </div>
